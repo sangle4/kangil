@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClCompile Include="1번문제.cpp" />
     <ClCompile Include="2번문제.cpp" />
+    <ClCompile Include="3번문제.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
